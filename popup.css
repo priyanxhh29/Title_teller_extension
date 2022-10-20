@@ -1,0 +1,30 @@
+body{
+    background-color: #f1f5f9;
+}
+.wrapper {
+    width: 300px;
+    text-align: center;
+}
+.titleBtn{
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    background: #2d87cb;
+    cursor: pointer;
+}
+
+.selectTitle{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.Value{
+    
+    
+    margin-left: 5px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
